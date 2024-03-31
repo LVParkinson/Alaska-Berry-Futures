@@ -7,7 +7,7 @@ As of April 2024 the following booklets are available:
 - Lowbush cranberry / lingonberry (*V. vitis-idaea*)
 
 ## This repository
-This repo contains data analysis related to some of the figure and statements of the above booklets. 
+This repo contains data analysis related to some of the figures and statements of the above booklets. 
 
 ### Berry harvest by community
 `2023.02.08_Alaska vegetation harvest 2016-18.ipynb`
@@ -24,10 +24,8 @@ Uses vegetation harvest spreadsheets from the Alaska Department of Fish and Game
 
 **Found in:**    
 - Lingonberry, page 11
-  > "**Spring icing:** In a study in Sweden, when winter warming melted snow but then froze again to cover the plants
-in ice for weeks or months two winters in a row there was a significant decrease in the number of flowers.50
-This is unlikely to be an issue in Southeast Alaska or the Aleutians, but it may be become a problem in some
-other parts of the state."
+  > "**Spring icing:** In a study in Sweden, when winter warming melted snow but then froze again to cover the plants in ice for weeks or months two winters in a row there was a significant decrease in the number of flowers.
+This is unlikely to be an issue in Southeast Alaska or the Aleutians, but it may be become a problem in some other parts of the state."
 
 Using [Alaska Climate Research Center](https://akclimate.org/data/data-portal/) historical temperature data to investigate freeze thaw days and snow depth in selected locations across Alaska. For more detail, see the notebook.      
   
@@ -37,6 +35,8 @@ Using [Alaska Climate Research Center](https://akclimate.org/data/data-portal/) 
 **Found in:**
 - Blueberry, page 5
   > "Precipitation during the growing season is expected to increase across most regions of the state"
+- Lowbush cranberry, page 13
+  > "Increased rain during the flowering period (June) may reduce pollination because the insects don’t fly in bad weather. In Interior Alaska precipitation in June is expected to increase by ~50% but in other places it is either not increasing or not by very much."
 
 
 Using SNAP precipitation models to look at predicted changes.      
