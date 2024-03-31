@@ -29,8 +29,22 @@ in ice for weeks or months two winters in a row there was a significant decrease
 This is unlikely to be an issue in Southeast Alaska or the Aleutians, but it may be become a problem in some
 other parts of the state."
 
-Using [Alaska Climate Research Center](https://akclimate.org/data/data-portal/) historical temperature data to investigate freeze thaw days and snow depth in selected locations across Alaska.     
+Using [Alaska Climate Research Center](https://akclimate.org/data/data-portal/) historical temperature data to investigate freeze thaw days and snow depth in selected locations across Alaska. For more detail, see the notebook.      
   
+### Precipitation, pollinator success
+` 2023.02.16_AK precipitation.ipynb`    
+
+**Found in:**
+- Blueberry, page 5
+  > "Precipitation during the growing season is expected to increase across most regions of the state"
+
+
+Using SNAP precipitation models to look at predicted changes.      
+http://data.snap.uaf.edu/data/Base/Other/Community_charts_tool_database/    
+https://catalog.snap.uaf.edu/geonetwork/srv/eng/catalog.search#/metadata/b3b9581e-cccc-440f-bb2f-0fd6754d8d41 
+
+![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/7860e75c-1d1d-42f4-a366-185d722dcad4)
+
 
 ### Wind speed, pollinator success   
 `2023.02.16_AK windspeed.ipynb`    
