@@ -50,7 +50,7 @@ https://catalog.snap.uaf.edu/geonetwork/srv/eng/catalog.search#/metadata/b3b9581
 `2023.02.16_AK windspeed.ipynb`    
 
 **Found in:**    
-This was a preliminary investigation using SNAP [Historical and Projected Hourly Wind Data for Alaskan Communities, 1980-2099](https://catalog.snap.uaf.edu/geonetwork/srv/eng/catalog.search#/metadata/5bdac624-203c-4a65-bfca-1c3f5bf738db). Instead, all references to changes in Alaskan wind conditions reference:
+This was a preliminary investigation using SNAP [Historical and Projected Hourly Wind Data for Alaskan Communities, 1980-2099](https://catalog.snap.uaf.edu/geonetwork/srv/eng/catalog.search#/metadata/5bdac624-203c-4a65-bfca-1c3f5bf738db). Results from this analysis were not directly referenced in the booklets. Instead, all references to changes in Alaskan wind conditions reference:
 > Redilla K, ST Pearl, PA Bieniek, JE Walsh. 2019. Wind climatology for Alaska: historical and future. Atmospheric and Climate Sciences 9:
 683-702. [10.4236/acs.2019.94042](https://doi.org/10.4236/acs.2019.94042).
 
