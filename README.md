@@ -12,7 +12,7 @@ Other Alaska Berry Futures resources include:
 - This repository
 
 ## This repository
-This repo contains data analysis files related to some of the figures and statements of the above booklets. 
+This repo contains data analysis files related to some of the figures and statements of the above booklets. Most of the analysis was done with python and pandas in jupyter notebooks (.ipynb files) or within excel files. To see which file(s) relate to a specific comment, skip to the "All statements..." section.  
 
 ### Berry harvest by community
 `2023.02.08_Alaska vegetation harvest 2013-18.ipynb`
