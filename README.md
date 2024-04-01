@@ -101,11 +101,11 @@ For more information:
 ### Blueberry
 > Precipitation during the growing season is expected to increase across most regions of the state... - page 5    
 
-- See section "Precipitation, pollinator success" above
+- See section "Precipitation, pollinator success", above
 
 > Increased rain during the pollination period (May or June) may reduce pollination. - page 8    
 
-- See section "Precipitation, pollinator success" above
+- See section "Precipitation, pollinator success", above
 
 > Concerns about bog blueberry plants are mentioned in at least 16 climate adaptation plans from communities across Alaska. - page 13
 
@@ -118,11 +118,13 @@ For more information:
 
 > **Figure 6** - page 10    
 > While most of Alaska is unlikely to get that hot in June, even with climate warming, the Interior may start to see negative effects from high temperatures if no efforts to reduce greenhouse gas emissions are undertaken and temperatures rise as
-predicted (Figure 6). - page 11    
+predicted (Figure 6). - page 11
+
+- See section "Projected June temperatures", above
 
 > Increased rain during the flowering period (June) may reduce pollination because the insects don’t fly in bad weather. In Interior Alaska precipitation in June is expected to increase by ~50% but in other places it is either not increasing or not by very much. - page 13
 
-- See section "Precipitation, pollinator success" above
+- See section "Precipitation, pollinator success", above
 
 > However, this is not a big danger: even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July. - page 14
 
