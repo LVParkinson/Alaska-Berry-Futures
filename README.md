@@ -1,23 +1,33 @@
 ![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/8dc6b71e-ad0f-40db-81b5-777d67ffa082)
 
 ### [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) strives to provide current knowledge about northern berry species, expose gaps in our knowledge and inform Alaskans about how we can plan for changing berry resources. 
-As of April 2024 the following booklets are available:
+Berries in Alaska's Changing Climate Series, as of April 2024:
 - Cloudberry (*Rubus chamaemorus*)
 - Blueberry (*Vaccinium uliginosum*)
 - Lowbush cranberry / lingonberry (*V. vitis-idaea*)
 
+Other Alaska Berry Futures resources include: 
+- Zotero library
+- Flickr (?)
+- This repository
+
 ## This repository
-This repo contains data analysis related to some of the figures and statements of the above booklets. 
+This repo contains data analysis files related to some of the figures and statements of the above booklets. 
 
 ### Berry harvest by community
-`2023.02.08_Alaska vegetation harvest 2016-18.ipynb`
+`2023.02.08_Alaska vegetation harvest 2013-18.ipynb`
 
 **Found in:**
 - Cloudberry, map on page 12
 - Blueberry, figure 10
 - Lowbush cranberry, figure 2
 
+![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/b54dba30-648e-423e-a628-76d06c37536a)
+
+
 Uses vegetation harvest spreadsheets from the Alaska Department of Fish and Game [Commuity Subsistence Information System](https://www.adfg.alaska.gov/sb/CSIS/). For more detail, see the notebook. 
+
+__
 
 ### Freeze thaw, winter icing
 `2024.02.23_ABF_FreezeThawDays.ipynb`    
@@ -29,6 +39,8 @@ This is unlikely to be an issue in Southeast Alaska or the Aleutians, but it may
 
 Using [Alaska Climate Research Center](https://akclimate.org/data/data-portal/) historical temperature data to investigate freeze thaw days and snow depth in selected locations across Alaska. For more detail, see the notebook.      
   
+__
+
 ### Precipitation, pollinator success
 ` 2023.02.16_AK precipitation.ipynb`    
 
@@ -44,6 +56,20 @@ http://data.snap.uaf.edu/data/Base/Other/Community_charts_tool_database/
 https://catalog.snap.uaf.edu/geonetwork/srv/eng/catalog.search#/metadata/b3b9581e-cccc-440f-bb2f-0fd6754d8d41 
 
 ![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/7860e75c-1d1d-42f4-a366-185d722dcad4)
+
+__
+
+### Projected June temperatures
+`2023.02.16_AK temperature.ipynb`  -- TO DO: clean notebook, add comments, add post-processing   
+
+**Found in**    
+- Lowbush cranberry, page 10 and 11
+  > While most of Alaska is unlikely to get that hot in June, even with climate warming, the Interior may start to see negative effects from high temperatures if no efforts to reduce greenhouse gas emissions are undertaken and temperatures rise as
+predicted (Figure 6).
+
+![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/1480eaaf-6434-4645-b9fc-685172d93a00)
+
+__
 
 
 ### Wind speed, pollinator success   
@@ -64,7 +90,9 @@ For more information:
 ### Cloudberry
 > ...and in some parts of Alaska (Yukon-Kuskokwim Delta, Interior) much of the winter precipitation will switch from snow to rain. - page 6
 
-> Concerns about cloudberry plants are mentioned in at least 12 climate adaptation plans from communities across Alaska and are reported by additional communities in Alaska and Canada. - page 12
+> Concerns about cloudberry plants are mentioned in at least 12 climate adaptation plans from communities across Alaska and are reported by additional communities in Alaska and Canada. - page 12    
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
 
 > In Scandinavia and Quebec, the addition of honeybees has been shown to increase pollination and fruit set. - page 13
 
@@ -79,10 +107,14 @@ For more information:
 
 - See section "Precipitation, pollinator success" above
 
-> Concerns about bog blueberry plants are mentioned in at least 16 climate adaptation plans from communities across Alaska. - page 13     
+> Concerns about bog blueberry plants are mentioned in at least 16 climate adaptation plans from communities across Alaska. - page 13
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
 
 ### Lowbush cranberry    
-> At least eleven Alaskan communities mention lowbush cranberry in their climate adaptation plans. Many are particularly concerned with changes in the variability of timing and abundance of harvests. - page 4    
+> At least eleven Alaskan communities mention lowbush cranberry in their climate adaptation plans. Many are particularly concerned with changes in the variability of timing and abundance of harvests. - page 4
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly. 
 
 > **Figure 6** - page 10    
 > While most of Alaska is unlikely to get that hot in June, even with climate warming, the Interior may start to see negative effects from high temperatures if no efforts to reduce greenhouse gas emissions are undertaken and temperatures rise as
@@ -99,12 +131,12 @@ predicted (Figure 6). - page 11
 ## Errata
 A running record of typos or other errors to fix during the next round of updates    
 
-### cloudberry
+### Cloudberry
 - Page 13: the statement "In Scandinavia and Quebec, the addition of honeybees has been shown to increase pollination and fruit set." should reference 40- Naess, et al. 2011
 
 
-### blueberry
+### Blueberry
 
-### lingonberry
+### Lowbush cranberry
 - page 14: the statement "even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July." should reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)
 
