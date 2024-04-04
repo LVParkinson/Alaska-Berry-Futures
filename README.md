@@ -8,7 +8,6 @@ Berries in Alaska's Changing Climate Series, as of April 2024:
 
 Other Alaska Berry Futures resources include: 
 - Zotero library
-- Flickr (?)
 - This repository
 
 ## This repository
