@@ -8,11 +8,60 @@ Berries in Alaska's Changing Climate Series, as of April 2024:
 
 Other Alaska Berry Futures resources include: 
 - Zotero library
-- Flickr (?)
 - This repository
 
 ## This repository
-This repo contains data analysis files related to some of the figures and statements of the above booklets. Most of the analysis was done with python and pandas in jupyter notebooks (.ipynb files) or within excel files. To see which file(s) relate to a specific comment, skip to the "All statements..." section.  
+This repo contains data analysis files related to some of the figures and statements of the above booklets. Most of the analysis was done with python and pandas in jupyter notebooks (.ipynb files) or within excel files. There are three sections:
+- The "All statements..." section describes which file(s) relate to a specific comment.
+- The "File Descriptions..." section is rather self explanatory
+- Errata to be fixed in future updates   
+
+## All statements referencing "Data underlying graphs and climate statements in the Berries in Alaska’s Changing Climate series"
+
+### Cloudberry
+> ...and in some parts of Alaska (Yukon-Kuskokwim Delta, Interior) much of the winter precipitation will switch from snow to rain. - page 6
+
+> Concerns about cloudberry plants are mentioned in at least 12 climate adaptation plans from communities across Alaska and are reported by additional communities in Alaska and Canada. - page 12    
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
+
+> In Scandinavia and Quebec, the addition of honeybees has been shown to increase pollination and fruit set. - page 13
+
+- This is a mistake and should reference: 40; Naess, S. K. & Chagnon, M. Honeybees are useful as pollinators of the dioecious cloudberry, a high-value northern berry. Acta Agriculturae Scandinavica, Section B - Soil & Plant Science 61, 1–7 (2011). 
+
+### Blueberry
+> Precipitation during the growing season is expected to increase across most regions of the state... - page 5    
+
+- See section "Precipitation, pollinator success", below
+
+> Increased rain during the pollination period (May or June) may reduce pollination. - page 8    
+
+- See section "Precipitation, pollinator success", below
+
+> Concerns about bog blueberry plants are mentioned in at least 16 climate adaptation plans from communities across Alaska. - page 13
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
+
+### Lowbush cranberry    
+> At least eleven Alaskan communities mention lowbush cranberry in their climate adaptation plans. Many are particularly concerned with changes in the variability of timing and abundance of harvests. - page 4
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly. 
+
+> **Figure 6** - page 10    
+> While most of Alaska is unlikely to get that hot in June, even with climate warming, the Interior may start to see negative effects from high temperatures if no efforts to reduce greenhouse gas emissions are undertaken and temperatures rise as
+predicted (Figure 6). - page 11
+
+- See section "Projected June temperatures", below
+
+> Increased rain during the flowering period (June) may reduce pollination because the insects don’t fly in bad weather. In Interior Alaska precipitation in June is expected to increase by ~50% but in other places it is either not increasing or not by very much. - page 13
+
+- See section "Precipitation, pollinator success", below
+
+> However, this is not a big danger: even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July. - page 14
+
+- While we did some investigation, we did not do any new analysis for this statement. It should instead reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)
+
+## File descriptions 
 
 ### Berry harvest by community
 `2023.02.08_Alaska vegetation harvest 2013-18.ipynb`
@@ -85,50 +134,6 @@ For more information:
 - SNAP [climate tools](https://uaf-snap.org/climate-tools/) and [Github](https://github.com/ua-snap)
 
 
-## All statements referencing "Data underlying graphs and climate statements in the Berries in Alaska’s Changing Climate series"
-
-### Cloudberry
-> ...and in some parts of Alaska (Yukon-Kuskokwim Delta, Interior) much of the winter precipitation will switch from snow to rain. - page 6
-
-> Concerns about cloudberry plants are mentioned in at least 12 climate adaptation plans from communities across Alaska and are reported by additional communities in Alaska and Canada. - page 12    
-
-- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
-
-> In Scandinavia and Quebec, the addition of honeybees has been shown to increase pollination and fruit set. - page 13
-
-- This is a mistake and should reference: 40; Naess, S. K. & Chagnon, M. Honeybees are useful as pollinators of the dioecious cloudberry, a high-value northern berry. Acta Agriculturae Scandinavica, Section B - Soil & Plant Science 61, 1–7 (2011). 
-
-### Blueberry
-> Precipitation during the growing season is expected to increase across most regions of the state... - page 5    
-
-- See section "Precipitation, pollinator success", above
-
-> Increased rain during the pollination period (May or June) may reduce pollination. - page 8    
-
-- See section "Precipitation, pollinator success", above
-
-> Concerns about bog blueberry plants are mentioned in at least 16 climate adaptation plans from communities across Alaska. - page 13
-
-- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.  
-
-### Lowbush cranberry    
-> At least eleven Alaskan communities mention lowbush cranberry in their climate adaptation plans. Many are particularly concerned with changes in the variability of timing and abundance of harvests. - page 4
-
-- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly. 
-
-> **Figure 6** - page 10    
-> While most of Alaska is unlikely to get that hot in June, even with climate warming, the Interior may start to see negative effects from high temperatures if no efforts to reduce greenhouse gas emissions are undertaken and temperatures rise as
-predicted (Figure 6). - page 11
-
-- See section "Projected June temperatures", above
-
-> Increased rain during the flowering period (June) may reduce pollination because the insects don’t fly in bad weather. In Interior Alaska precipitation in June is expected to increase by ~50% but in other places it is either not increasing or not by very much. - page 13
-
-- See section "Precipitation, pollinator success", above
-
-> However, this is not a big danger: even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July. - page 14
-
-- While we did some investigation, we did not do any new analysis for this statement. It should instead reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)
 
 ## Errata
 A running record of typos or other errors to fix during the next round of updates    
@@ -140,5 +145,7 @@ A running record of typos or other errors to fix during the next round of update
 ### Blueberry
 
 ### Lowbush cranberry
+- page 2: add LV Parkinson as a contributor to the graphics and photos
 - page 14: the statement "even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July." should reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)
+
 
