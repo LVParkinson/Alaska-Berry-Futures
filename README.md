@@ -1,10 +1,11 @@
 ![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/8dc6b71e-ad0f-40db-81b5-777d67ffa082)
 
 ### [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) strives to provide current knowledge about northern berry species, expose gaps in our knowledge and inform Alaskans about how we can plan for changing berry resources. 
-Berries in Alaska's Changing Climate Series, as of April 2024:
+Berries in Alaska's Changing Climate Series, as of July 2024:
 - Cloudberry (*Rubus chamaemorus*)
 - Blueberry (*Vaccinium uliginosum*)
 - Lowbush cranberry / lingonberry (*V. vitis-idaea*)
+- Crowberry (*Empetrum nigrum*)
 
 Other Alaska Berry Futures resources include: 
 - Zotero library
@@ -59,7 +60,14 @@ predicted (Figure 6). - page 11
 
 > However, this is not a big danger: even historical records from Utqiaġvik, Alaska rarely show temperatures this cold in June or July. - page 14
 
-- While we did some investigation, we did not do any new analysis for this statement. It should instead reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)
+- While we did some investigation, we did not do any new analysis for this statement. It should instead reference the [Alaska Climate Research Center](https://akclimate.org/data/data-portal/)    
+
+### Crowberry    
+> At least ten Alaskan communities mention crowberry in their climate adaptation plans. Many are concerned with changes in the timing of fruit ripening, which affects the harvest schedule, or express concerns about reduced abundance due to factors such as berry patches drying out.    
+
+- Katie Spellman (klspellman *at* alaska.edu) reviewed climate adaptation plans from across the state for mentions of berries and berry-related concerns. She and Christa Mulder also ran community listening sessions. For more information, please contact her directly.    
+
+> Fruits are generally ripe by the middle of July in interior Alaska and, based on herbarium specimens, in much of Alaska, though likely later at high elevations.
 
 ## File descriptions 
 
