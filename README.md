@@ -1,7 +1,7 @@
 ![grafik](https://github.com/LVParkinson/Alaska-Berry-Futures/assets/15371952/8dc6b71e-ad0f-40db-81b5-777d67ffa082)
 
 ### [Alaska Berry Futures](https://sites.google.com/alaska.edu/alaska-berry-futures/home) strives to provide current knowledge about northern berry species, expose gaps in our knowledge and inform Alaskans about how we can plan for changing berry resources. 
-Berries in Alaska's Changing Climate Series, as of July 2024:
+Berries in Alaska's Changing Climate Series, as of September 2024:
 - Cloudberry (*Rubus chamaemorus*)
 - Blueberry (*Vaccinium uliginosum*)
 - Lowbush cranberry / lingonberry (*V. vitis-idaea*)
