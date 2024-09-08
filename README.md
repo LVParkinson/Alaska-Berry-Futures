@@ -6,6 +6,7 @@ Berries in Alaska's Changing Climate Series, as of July 2024:
 - Blueberry (*Vaccinium uliginosum*)
 - Lowbush cranberry / lingonberry (*V. vitis-idaea*)
 - Crowberry (*Empetrum nigrum*)
+- Salmonberry (*Rubus spectabilis*)
 
 Other Alaska Berry Futures resources include: 
 - Zotero library
